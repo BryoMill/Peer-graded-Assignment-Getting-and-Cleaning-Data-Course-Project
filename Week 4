@@ -1,7 +1,3 @@
-#Get & Set Working Directory 
-
-getwd()
-setwd("C:/Users/bryomill/Documents/R Files")
 
 #Load dplyr 
 library(dplyr)
